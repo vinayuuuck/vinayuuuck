@@ -4,7 +4,7 @@
 **vinayuuuck/vinayuuuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at [**Discover Financial Services**](https://www.discover.com/) as a Business Technology Intern.
+- 🔭 I’m currently studying at [**The University of Manchester**](https://www.manchester.ac.uk/) as a Business Technology Intern.
 - 🌱 I’m currently learning about Machine Learning, Logic, Algorithms, and Data Structures, Software Engineering, and Distributed Systems.
 - 💬 Ask me about competitive programming, hackathons, any of the above topics, or anything else!
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vinayaksbhadoriya/).
