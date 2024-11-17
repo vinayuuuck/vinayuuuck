@@ -4,7 +4,7 @@
 **vinayuuuck/vinayuuuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently at [**The University of Manchester**](https://www.manchester.ac.uk/) as a Computer Science student.
+- 🔭 I’m a CompSci graduate from [**The University of Manchester**](https://www.manchester.ac.uk/) and currently completing my Masters in Computer Science at [**NYU Courant**](https://cs.nyu.edu/home/index.html)
 - 🌱 I’m currently learning about Machine Learning, Logic, Algorithms, and Data Structures, Software Engineering, and Distributed Systems.
 - 💬 Ask me about competitive programming, hackathons, any of the above topics, or anything else!
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vinayaksbhadoriya/).
