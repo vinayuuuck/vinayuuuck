@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I like to participate in quizzes, reading, and playing chess.
 - 📖 Currently reading: [**The Black Swan**](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) by Nassim Nicholas Taleb.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayuuuck&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayuuuck&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
